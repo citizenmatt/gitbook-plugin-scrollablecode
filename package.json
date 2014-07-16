@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-scrollablecode",
+  "version": "0.1.0",
+  "description": "GitBook plugin - make code blocks horizontally scrollable",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citizenmatt/gitbook-plugin-scrollablecode.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin"
+  ],
+  "author": "Matt Ellis <m.t.ellis@gmail.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/citizenmatt/gitbook-plugin-scrollablecode/issues"
+  },
+  "homepage": "https://github.com/citizenmatt/gitbook-plugin-scrollablecode"
+}
