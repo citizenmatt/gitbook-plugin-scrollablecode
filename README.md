@@ -1,3 +1,6 @@
+**NOTE: No longer needed with GitBook 1.0 **
+
+
 # gitbook-plugin-scrollablecode
 
 Simple plugin to [GitBook](https://www.gitbook.io) to disable word wrap in code blocks.
